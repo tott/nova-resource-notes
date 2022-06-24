@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.1.0 || >=8.0",
-        "tott/laravel-model-notes": ">=1.1"
+        "tott/laravel-model-notes": "dev-master"
     },
     "autoload": {
         "psr-4": {
