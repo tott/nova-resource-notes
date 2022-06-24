@@ -1,5 +1,5 @@
 {
-    "name": "digitalcloud/nova-resource-notes",
+    "name": "tott/nova-resource-notes",
     "description": "A Laravel Nova Resource Note.",
     "keywords": [
         "laravel",
@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=7.1.0 || >=8.0",
-        "digitalcloud/laravel-model-notes": ">=1.1"
+        "tott/laravel-model-notes": ">=1.1"
     },
     "autoload": {
         "psr-4": {
