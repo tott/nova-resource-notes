@@ -1,6 +1,12 @@
 {
     "name": "tott/nova-resource-notes",
     "description": "A Laravel Nova Resource Note.",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/tott/laravel-model-notes"
+        }
+    ],
     "keywords": [
         "laravel",
         "nova"
