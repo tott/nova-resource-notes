@@ -1,5 +1,5 @@
 {
-    "name": "tott/nova-resource-notes",
+    "name": "digitalcloud/nova-resource-notes",
     "description": "A Laravel Nova Resource Note.",
     "repositories": [
         {
